@@ -6,4 +6,4 @@ displayInList: false
 draft: false
 ---
 
-Hi 👋  Simon here.  Welcome, and thanks for visiting.
+Hi 👋  Simon here.  Welcome, and thanks for visiting!
