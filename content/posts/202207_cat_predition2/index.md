@@ -16,7 +16,7 @@ resources:
 
 > Can ML predict where Snowy the cat would go throughout her day? With months of location & temperature data captured, this second blogs covers how to train a machine learning (ML) model to predict where Snowy would go throughout her day. For the impatient, you can skip directly to the prediction web-app here.
 
-[Part 1 of this blog](/202202_cat_predition1) covered the hardware required build a history of which room she used for her favourite sleeping spots.
+[Part 1 of this blog](/posts/202202_cat_predition1) covered the hardware required build a history of which room she used for her favourite sleeping spots.
 
 ![Cat location prediction using Streamlit web apps](00000000.gif) 
 
@@ -24,7 +24,7 @@ resources:
 
 ## Where are we starting?
 
-This [first blog](/202202_cat_predition1) described the the method for locating Snowy and data collection platform. I had collected over three months of location observations, with over **12 million** location, temperature, humidity and rainfall observations (I *may* have gone over the top with data collection).
+This [first blog](/posts/202202_cat_predition1) described the the method for locating Snowy and data collection platform. I had collected over three months of location observations, with over **12 million** location, temperature, humidity and rainfall observations (I *may* have gone over the top with data collection).
 
 ![](00000001.png)
 
