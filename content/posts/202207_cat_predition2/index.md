@@ -8,7 +8,7 @@ description: "Where did I leave the cat?"
 dropCap: true
 resources:
 - name: featuredImage
-  src: "00000000.gif"
+  src: "00000007.png"
 ---
 
 
