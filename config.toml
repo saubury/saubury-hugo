@@ -1,4 +1,4 @@
-baseURL: "https://simonaubury.com/"
+baseURL = "https://simonaubury.com/"
 languageCode = 'en-au'
 title = 'Simon Aubury'
 theme = 'aether'
