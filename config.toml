@@ -1,0 +1,18 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-au'
+title = 'Simon Aubury'
+theme = 'aether'
+
+[params]
+  brand = "simon aubury"
+  description = "Personal website for Simon Aubury"
+  headshotimg = "simon-aubury-profile.jpg"
+  headshotalt = "Simon Aubury head shot"
+  rssinmenu = true
+  github = "https://github.com/saubury"
+  linkedin = "https://www.linkedin.com/in/simonaubury"
+
+
+[markup]
+  [markup.highlight]
+    style = "igor"
