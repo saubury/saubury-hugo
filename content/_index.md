@@ -1,4 +1,4 @@
 ---
 title: "Simon Aubury's site"
-description: "Simon's home on the internet"
+description: "A data engineer solving problems with data and computation. Sharing projects and foolish endeavours ..."
 ---
