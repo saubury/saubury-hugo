@@ -15,11 +15,11 @@ I'm a Principal Data Engineer currently working at Thoughtworks, based in Sydney
 
 ## Other places to find me
 
-- [GitHub](https://github.com/saubury)
-- [LinkedIn](https://www.linkedin.com/in/simonaubury/)
-- [Mastodon](https://data-folks.masto.host/@saubury)
-- [Twitter](https://twitter.com/SimonAubury)
-- [Medium](https://medium.com/@simon-aubury)
+- [💻 GitHub](https://github.com/saubury)
+- [🖇️ LinkedIn](https://www.linkedin.com/in/simonaubury/)
+- [🐘 Mastodon](https://data-folks.masto.host/@saubury)
+- [🕊️ Twitter](https://twitter.com/SimonAubury)
+- [✍🏼 Medium](https://medium.com/@simon-aubury)
 
 ## About simonaubury.com
 
