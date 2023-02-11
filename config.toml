@@ -2,7 +2,7 @@ baseURL = "https://simonaubury.com/"
 languageCode = 'en-au'
 title = 'Simon Aubury'
 theme = 'aether'
-googleAnalytics = 'G-2GMNLWQZ4C'
+googleAnalytics = "G-7N67PMRZ6N"
 
 [params]
   brand = "simon aubury"
