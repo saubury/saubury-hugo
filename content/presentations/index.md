@@ -6,9 +6,7 @@ displayInList: false
 draft: false
 ---
 
-A collection of presentation slides from Simon Aubury
-
-
+A collection of presentation slides from Simon Aubury, mostly as exported PDF's.
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
