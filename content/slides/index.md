@@ -1,12 +1,12 @@
 ---
-title: "Presentations"
+title: "Presentation slides"
 dropCap: false
 displayInMenu: true
 displayInList: false
 draft: false
 ---
 
-A collection of presentation slides from Simon Aubury, mostly as exported PDF's.
+A collection of presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences.
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
