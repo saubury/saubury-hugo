@@ -4,6 +4,7 @@ dropCap: false
 displayInMenu: true
 displayInList: false
 draft: false
+date: 2023-02-02T10:22:20+11:00
 ---
 
 Hi 👋 Simon here.  Welcome, and thanks for visiting!

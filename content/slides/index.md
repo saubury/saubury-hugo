@@ -3,7 +3,9 @@ title: "Presentation slides"
 dropCap: false
 displayInMenu: true
 displayInList: false
+description: "Presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences"
 draft: false
+date: 2023-02-01T10:22:20+11:00
 ---
 
 A collection of presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences.
