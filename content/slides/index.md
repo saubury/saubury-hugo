@@ -5,13 +5,14 @@ displayInMenu: true
 displayInList: false
 description: "Presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences"
 draft: false
-date: 2023-02-01T10:22:20+11:00
+date: 2023-03-28T10:22:20+11:00
 ---
 
 A collection of presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences.
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202303](./images/20230330_Goldilocks.png)    | [Goldilocks and the 3 (data mesh) bears ](./20230330_Goldilocks.pdf)  | [Programmable 2023](https://www.programmable.tech/)  **Mar 2023** |
 | ![202210](./images/202210_Koala_Counting_Kafka.png)    | [Counting Koalas with Kafka ](./202210_Koala_Counting_Kafka.pdf)  | [Current 2022](https://2022.currentevent.io/)  **Oct 2022** |
 | ![202210](./images/202210_EDA_Current22.png)    | [Event-driven architecture ... Why, and why now?](./202210_EDA_Current22.pdf)  | [Current 2022](https://2022.currentevent.io/)  **Oct 2022** |
 | ![202209](./images/202209_Goldilocks_threedatameshlessons.png)    | [Goldilocks and the 3 data mesh bears](./202209_Goldilocks_threedatameshlessons.pdf)  | [Sydney Data Eng meetup](meetup.com)  **Sept 2022** |
