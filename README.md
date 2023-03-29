@@ -21,3 +21,15 @@ A [GitHub action](https://docs.github.com/en/actions) is used to build the Hugo 
 - The [GitHub action for this site](.github/workflows/deploy_me.yml) 
 - Documentation for the helper [hugo-deploy-gh-pages GitHub](https://github.com/benmatselby/hugo-deploy-gh-pages) action
 - GitHub Pages repo is at https://github.com/saubury/saubury.github.io
+
+
+
+## Notes for running locally on Windows
+
+To run on a Windows machine and visit http://localhost:1313
+
+```
+cd /d D:\git\saubury-hugo
+c:\scripts\hugo.exe server --buildDrafts
+```
+
