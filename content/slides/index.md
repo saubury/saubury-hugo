@@ -12,6 +12,7 @@ A collection of presentation slides from Simon Aubury, mostly as exported PDF's 
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202304](./images/20230412_MastodonDuckDBKafka.png)    | [That looks weird! Exploring Mastodon user behaviour with Kafka & DuckDB ](./20230412_MastodonDuckDBKafka.pdf)  | [Sydney Data Engineering Meetup](https://www.meetup.com/sydney-data-engineering-meetup/events/292548136/)  **Apr 2023** |
 | ![202303](./images/20230330_Goldilocks.png)    | [Goldilocks and the 3 (data mesh) bears ](./20230330_Goldilocks.pdf)  | [Programmable 2023](https://www.programmable.tech/)  **Mar 2023** |
 | ![202210](./images/202210_Koala_Counting_Kafka.png)    | [Counting Koalas with Kafka ](./202210_Koala_Counting_Kafka.pdf)  | [Current 2022](https://2022.currentevent.io/)  **Oct 2022** |
 | ![202210](./images/202210_EDA_Current22.png)    | [Event-driven architecture ... Why, and why now?](./202210_EDA_Current22.pdf)  | [Current 2022](https://2022.currentevent.io/)  **Oct 2022** |
