@@ -5,7 +5,7 @@ displayInMenu: true
 displayInList: false
 description: "Presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences"
 draft: false
-date: 2023-03-28T10:22:20+11:00
+date: 2023-05-16T10:22:20+11:00
 ---
 
 A collection of presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences.
