@@ -12,6 +12,7 @@ A collection of presentation slides from Simon Aubury, mostly as exported PDF's 
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202305](./images/20230518_DataValue.png)    | [Surprising ways to realise value with data](./20230518_DataValue.pdf)  | [tekMeetup-Getting Your Data Right](https://www.meetup.com/tekmeetup/events/292841545/)  **May 2023** |
 | ![202304](./images/20230412_MastodonDuckDBKafka.png)    | [That looks weird! Exploring Mastodon user behaviour with Kafka & DuckDB ](./20230412_MastodonDuckDBKafka.pdf)  | [Sydney Data Engineering Meetup](https://www.meetup.com/sydney-data-engineering-meetup/events/292548136/)  **Apr 2023** |
 | ![202303](./images/20230330_Goldilocks.png)    | [Goldilocks and the 3 (data mesh) bears ](./20230330_Goldilocks.pdf)  | [Programmable 2023](https://www.programmable.tech/)  **Mar 2023** |
 | ![202210](./images/202210_Koala_Counting_Kafka.png)    | [Counting Koalas with Kafka ](./202210_Koala_Counting_Kafka.pdf)  | [Current 2022](https://2022.currentevent.io/)  **Oct 2022** |
