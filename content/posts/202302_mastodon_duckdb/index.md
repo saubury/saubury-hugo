@@ -2,7 +2,7 @@
 title: "Mastodon usage — counting toots with Kafka, DuckDB & Seaborn "
 date: 2023-02-22T10:22:20+11:00
 draft: false
-categories: ["Kafka"]
+categories: ["Kafka", "duckdb"]
 description: "Counting toots in a decentralized social networking platform 🐘🦆📊"
 dropCap: true
 resources:
