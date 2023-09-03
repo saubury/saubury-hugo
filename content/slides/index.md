@@ -12,6 +12,7 @@ A collection of presentation slides from Simon Aubury, mostly as exported PDF's 
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202309](./images/20230908_YOW_TechLeaders.png)    | [Leading with Uncertainty, Doubt, and Embarrassment](./20230908_YOW_TechLeaders.pdf)  | [YOW! Tech Leaders Summit Sydney 2023](https://yowcon.com/tech-leaders-sydney-2023/)  **Sept 2023** |
 | ![202305](./images/20230529_MastodonDuckDBKafka.png)    | [Exploring Mastodon user behaviour with Kafka & DuckDB](./20230529_MastodonDuckDBKafka.pdf)  | [Apache Kafka Sydney Meetup](https://www.meetup.com/apache-kafka-sydney/events/293398075/)  **May 2023** |
 | ![202305](./images/20230518_DataValue.png)    | [Surprising ways to realise value with data](./20230518_DataValue.pdf)  | [tekMeetup-Getting Your Data Right](https://www.meetup.com/tekmeetup/events/292841545/)  **May 2023** |
 | ![202303](./images/20230330_Goldilocks.png)    | [Goldilocks and the 3 (data mesh) bears ](./20230330_Goldilocks.pdf)  | [Programmable 2023](https://www.programmable.tech/)  **Mar 2023** |
