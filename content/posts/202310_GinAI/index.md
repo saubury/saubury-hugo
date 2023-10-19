@@ -1,6 +1,6 @@
 ---
 title: "🍹GinAI - Cocktails mixed with generative AI"
-date: 2023-10-17T10:22:20+11:00
+date: 2023-10-18T10:22:20+11:00
 draft: false
 categories: ["GenerativeAI", "duckdb"]
 description: "Cocktails mixed with generative AI"
@@ -10,10 +10,6 @@ resources:
   src: "00000000.png"
 ---
 
-
-
-url: https://medium.com/@simon-aubury/ginai-cocktails-mixed-with-generative-ai-21cf20f13727
-date: Fri Oct 13 2023 22:27:57 GMT+1100 (Australian Eastern Daylight Time)
 
 
 # 🍹GinAI - Cocktails mixed with generative AI
