@@ -152,7 +152,7 @@ The Raspberry Pi is mounted with the relay board. The relays switch 12 volt powe
 
 Finally I added the mandatory RGB LED’s for some colourful lighting effects. I used a row of [WS2812B LED strip](https://www.jaycar.com.au/duinotech-arduino-compatible-w2812b-rgb-led-strip-2m/p/XC4390). This was installed behind the final collecting tube with a bit of soldering hidden by white heat shrink tubing.
 
-![WS2812B RGB LED strip.](./00000009.*
+![WS2812B RGB LED strip.](./00000009.png)
 
 A great bartended needs to be able to talk and entertain, so GinAI needed a speaker. I used a Google Nest Mini mounted to the frame as a speaker for spoken words and for playing the music.
 
