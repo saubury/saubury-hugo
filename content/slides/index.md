@@ -5,13 +5,14 @@ displayInMenu: true
 displayInList: false
 description: "Presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences"
 draft: false
-date: 2023-05-16T10:22:20+11:00
+date: 2023-12-01T10:22:20+11:00
 ---
 
 A collection of presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences.
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202312](./images/20231206_SnowflakeLLMs.png)    | [The inner workings of large language models](./20231206_SnowflakeLLMs.pdf)  | [Snowflake BUILD Sydney](https://usergroups.snowflake.com/events/details/snowflake-sydney-presents-sydney-build-meetup/)  **Sept 2023** |
 | ![202309](./images/20230908_YOW_TechLeaders.png)    | [Leading with Uncertainty, Doubt, and Embarrassment](./20230908_YOW_TechLeaders.pdf)  | [YOW! Tech Leaders Summit Sydney 2023](https://yowcon.com/tech-leaders-sydney-2023/)  **Sept 2023** |
 | ![202305](./images/20230529_MastodonDuckDBKafka.png)    | [Exploring Mastodon user behaviour with Kafka & DuckDB](./20230529_MastodonDuckDBKafka.pdf)  | [Apache Kafka Sydney Meetup](https://www.meetup.com/apache-kafka-sydney/events/293398075/)  **May 2023** |
 | ![202305](./images/20230518_DataValue.png)    | [Surprising ways to realise value with data](./20230518_DataValue.pdf)  | [tekMeetup-Getting Your Data Right](https://www.meetup.com/tekmeetup/events/292841545/)  **May 2023** |
