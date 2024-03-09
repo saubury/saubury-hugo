@@ -12,6 +12,7 @@ A collection of presentation slides from Simon Aubury, mostly as exported PDF's 
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202403](./images/20240320_GenAIPub.jpeg)    | [Explaining how GenAI works ( in a noisy pub )](./20240320_GenAIPub.pdf)  | [ Kafka Summit London 2024](https://www.kafka-summit.org/events/kafka-summit-london-2024/about)  **Mar 2024** |
 | ![202312](./images/20231214_KoalaCountingwithKafka.png)    | [Counting Koalas with Kafka](./20231214_KoalaCountingwithKafka.pdf)  | [Apache Kafka Meetup Sydney](https://www.meetup.com/apache-kafka-sydney/events/296672078/)  **Dec 2023** |
 | ![202312](./images/20231206_SnowflakeLLMs.png)    | [The inner workings of large language models](./20231206_SnowflakeLLMs.pdf)  | [Snowflake BUILD Sydney](https://usergroups.snowflake.com/events/details/snowflake-sydney-presents-sydney-build-meetup/)  **Dec 2023** |
 | ![202309](./images/20230908_YOW_TechLeaders.png)    | [Leading with Uncertainty, Doubt, and Embarrassment](./20230908_YOW_TechLeaders.pdf)  | [YOW! Tech Leaders Summit Sydney 2023](https://yowcon.com/tech-leaders-sydney-2023/)  **Sept 2023** |
