@@ -5,13 +5,14 @@ displayInMenu: true
 displayInList: false
 description: "Presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences"
 draft: false
-date: 2023-12-09T10:22:20+11:00
+date: 2024-03-09T10:22:20+11:00
 ---
 
 A collection of presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences.
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202403](./images/20240327_DuckDB_Meetup.png)    | [DuckDB - 20 problems, 20 minutes - one solution?](./20240327_DuckDB_Meetup.pdf)  | [ Sydney Data Eng meetup, March 2024](https://www.meetup.com/sydney-data-engineering-meetup/events/299743157)  **Mar 2024** |
 | ![202403](./images/20240320_GenAIPub.jpeg)    | [Explaining how GenAI works ( in a noisy pub )](./20240320_GenAIPub.pdf)  | [ Kafka Summit London 2024](https://www.kafka-summit.org/events/kafka-summit-london-2024/about)  **Mar 2024** |
 | ![202312](./images/20231214_KoalaCountingwithKafka.png)    | [Counting Koalas with Kafka](./20231214_KoalaCountingwithKafka.pdf)  | [Apache Kafka Meetup Sydney](https://www.meetup.com/apache-kafka-sydney/events/296672078/)  **Dec 2023** |
 | ![202312](./images/20231206_SnowflakeLLMs.png)    | [The inner workings of large language models](./20231206_SnowflakeLLMs.pdf)  | [Snowflake BUILD Sydney](https://usergroups.snowflake.com/events/details/snowflake-sydney-presents-sydney-build-meetup/)  **Dec 2023** |
