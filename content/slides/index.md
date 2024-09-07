@@ -12,6 +12,7 @@ A collection of presentation slides from Simon Aubury, mostly as exported PDF's 
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202409](./images/20240917_ClientCannotCommunicate.png)    | [Client Cannot Communicate - Lessons From a Decade of Kafka Consulting](./20240917_ClientCannotCommunicate.pdf)  | [ Current 2024, Austin  ](https://current.confluent.io/)  **Sept 2024** |
 | ![202403](./images/20240327_DuckDB_Meetup.png)    | [DuckDB - 20 problems, 20 minutes - one solution?](./20240327_DuckDB_Meetup.pdf)  | [ Sydney Data Eng meetup, March 2024](https://www.meetup.com/sydney-data-engineering-meetup/events/299743157)  **Mar 2024** |
 | ![202403](./images/20240320_GenAIPub.jpeg)    | [Explaining how GenAI works ( in a noisy pub )](./20240320_GenAIPub.pdf)  | [ Kafka Summit London 2024](https://www.kafka-summit.org/events/kafka-summit-london-2024/about)  **Mar 2024** |
 | ![202312](./images/20231214_KoalaCountingwithKafka.png)    | [Counting Koalas with Kafka](./20231214_KoalaCountingwithKafka.pdf)  | [Apache Kafka Meetup Sydney](https://www.meetup.com/apache-kafka-sydney/events/296672078/)  **Dec 2023** |
