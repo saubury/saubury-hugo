@@ -5,13 +5,14 @@ displayInMenu: true
 displayInList: false
 description: "Presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences"
 draft: false
-date: 2024-08-04T10:22:20+11:00
+date: 2024-10-04T10:22:20+11:00
 ---
 
 A collection of presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences.
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202410](./images/20241001_Aquackofalltrades_DuckDB.png)    | [A quack of all trades - DuckDB](./20241001_Aquackofalltrades_DuckDB.pdf)  | [ DataEngBytes 2024, Melbourne ](https://dataengbytes.com/melbourne)  **Oct 2024** |
 | ![202409](./images/20240917_ClientCannotCommunicate.png)    | [Client Cannot Communicate - Lessons From a Decade of Kafka Consulting](./20240917_ClientCannotCommunicate.pdf)  | [ Current 2024, Austin  ](https://current.confluent.io/)  **Sept 2024** |
 | ![202403](./images/20240327_DuckDB_Meetup.png)    | [DuckDB - 20 problems, 20 minutes - one solution?](./20240327_DuckDB_Meetup.pdf)  | [ Sydney Data Eng meetup, March 2024](https://www.meetup.com/sydney-data-engineering-meetup/events/299743157)  **Mar 2024** |
 | ![202403](./images/20240320_GenAIPub.jpeg)    | [Explaining how GenAI works ( in a noisy pub )](./20240320_GenAIPub.pdf)  | [ Kafka Summit London 2024](https://www.kafka-summit.org/events/kafka-summit-london-2024/about)  **Mar 2024** |
