@@ -5,13 +5,14 @@ displayInMenu: true
 displayInList: false
 description: "Presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences"
 draft: false
-date: 2024-10-04T10:22:20+11:00
+date: 2024-11-04T10:22:20+11:00
 ---
 
 A collection of presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences.
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202411](./images/20241123_serpents_and_ducks.png)    | [Serpents and Ducks, Wrangling data with Python and DuckDB](./20241123_serpents_and_ducks.pdf)  | [PyCon AU 2024](https://2024.pycon.org.au/)  **Nov 2024** |
 | ![202410](./images/20241001_Aquackofalltrades_DuckDB.png)    | [A quack of all trades - DuckDB](./20241001_Aquackofalltrades_DuckDB.pdf)  | [ DataEngBytes 2024, Melbourne ](https://dataengbytes.com/melbourne)  **Oct 2024** |
 | ![202409](./images/20240917_ClientCannotCommunicate.png)    | [Client Cannot Communicate - Lessons From a Decade of Kafka Consulting](./20240917_ClientCannotCommunicate.pdf)  | [ Current 2024, Austin  ](https://current.confluent.io/)  **Sept 2024** |
 | ![202403](./images/20240327_DuckDB_Meetup.png)    | [DuckDB - 20 problems, 20 minutes - one solution?](./20240327_DuckDB_Meetup.pdf)  | [ Sydney Data Eng meetup, March 2024](https://www.meetup.com/sydney-data-engineering-meetup/events/299743157)  **Mar 2024** |
