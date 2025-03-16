@@ -5,13 +5,14 @@ displayInMenu: true
 displayInList: false
 description: "Presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences"
 draft: false
-date: 2024-11-04T10:22:20+11:00
+date: 2025-03-14T10:22:20+11:00
 ---
 
 A collection of presentation slides from Simon Aubury, mostly as exported PDF's at local and international conferences.
 
 | Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202503](./images/20250320_I_care_about_data_products.png)    | [I care about data products … and so should you](./20250320_I_care_about_data_products.pdf)  | [Programmable 2025](https://www.programmable.tech/)  **Mar 2025** |
 | ![202502](./images/20250220_ClientCannotCommunicate.png)    | [Client Cannot Communicate - Lessons From a Decade of Kafka Consulting](./20250220_ClientCannotCommunicate.pdf)  | [Sydney Apache Kafka Meetup - February 2025](https://www.meetup.com/apache-kafka-sydney/events/305860329/)  **Feb 2025** |
 | ![202411](./images/20241123_serpents_and_ducks.png)    | [Serpents and Ducks, Wrangling data with Python and DuckDB](./20241123_serpents_and_ducks.pdf)  | [PyCon AU 2024](https://2024.pycon.org.au/)  **Nov 2024** |
 | ![202410](./images/20241001_Aquackofalltrades_DuckDB.png)    | [A quack of all trades - DuckDB](./20241001_Aquackofalltrades_DuckDB.pdf)  | [ DataEngBytes 2024, Melbourne ](https://dataengbytes.com/melbourne)  **Oct 2024** |
