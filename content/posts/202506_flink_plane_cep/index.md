@@ -1,5 +1,14 @@
-url: https://medium.com/@simon-aubury/when-plans-change-at-500-feet-complex-event-processing-of-ads-b-aviation-data-with-apache-flink-52b6381d6a20
-date: Sun Jun 01 2025 16:14:01 GMT+1000 (Australian Eastern Standard Time)
+---
+title: "Aviation data with Apache Flink"
+date: 2025-06-15T10:22:20+11:00
+draft: false
+categories: ["flink", "kafka"]
+description: "When plans change at 500 feet: Complex event processing of ADS-B aviation data with Apache Flink"
+dropCap: true
+resources:
+- name: featuredImage
+  src: "00000000.png"
+---
 
 
 # When plans change at 500 feet: Complex event processing of ADS-B aviation data with Apache Flink
