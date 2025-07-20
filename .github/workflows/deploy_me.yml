@@ -17,7 +17,7 @@ jobs:
         submodules: true
 
     - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@2.3.0
+      uses: benmatselby/hugo-deploy-gh-pages@v2.3.0
       env:
 # the default is to pull the latest version
         HUGO_VERSION: 0.108.0
